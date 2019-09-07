@@ -1,11 +1,3 @@
-'''
-name :  Tedu
-date :  2018-10-1
-email:  xxx
-modules: pymongo
-This is a dict project for AID
-'''
-
 from socket import *
 import os 
 import time
